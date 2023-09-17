@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - High
+  - Low
+  - Furacao
+  - target
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ingame UI
+    uniqueID: 23308751
+    locked: 0
+  - name: Game Elements
+    uniqueID: 3960320415
+    locked: 0
+  - name: Furacao
+    uniqueID: 3279641401
+    locked: 0
+  - name: Sidebar
+    uniqueID: 1610652565
+    locked: 0
+  - name: UI
+    uniqueID: 2036099305
+    locked: 0
+  - name: Above UI
+    uniqueID: 2963783623
+    locked: 0
